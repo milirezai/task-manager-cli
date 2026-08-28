@@ -176,7 +176,7 @@ No external database is required.
 
 
 <h6>🖥 Usage</h6>
-```py
+```
    After starting the application, the CLI displays the available operations:
    =====================================
    operations
@@ -191,6 +191,7 @@ No external database is required.
 7 - delete task
 8 - close
 ```
+
 Select an operation by entering its number.
 Example
 1
