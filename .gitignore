@@ -1,3 +1,11 @@
 
+.gitignore
+
+.idea/
+*.xml
+.gitignore
+
 __pycache__/
-*.pyc
+*.py[code]
+*.py.class
+*$.pyc
