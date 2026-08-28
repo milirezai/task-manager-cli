@@ -1,5 +1,4 @@
 
-.gitignore
 
 .idea/
 *.xml
@@ -9,3 +8,5 @@ __pycache__/
 *.py[code]
 *.py.class
 *$.pyc
+
+*.gitignore

@@ -176,8 +176,10 @@ No external database is required.
 
 
 <h6>🖥 Usage</h6>
-```
-   After starting the application, the CLI displays the available operations:
+
+After starting the application, the CLI displays the available operations:
+
+```py
    =====================================
    operations
    =====================================
